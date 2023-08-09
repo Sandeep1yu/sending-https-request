@@ -1,0 +1,30 @@
+.formData {
+    width: 30rem;
+    margin: 2rem auto;
+    
+
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 25rem;
+    padding: .5rem;
+    border-radius: 8px;
+}
+label {
+    font-size: 1rem;
+    margin-bottom: .5rem;
+    color: brown;
+    font-weight: bold;
+}
+
+button {
+    margin-top: 1rem;
+}
+
